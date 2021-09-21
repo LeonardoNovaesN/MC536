@@ -1,5 +1,5 @@
 # Aluno
-* `220142`: `leonardo Novaes do Nascimento`
+* `220142`: `Leonardo Novaes do Nascimento`
 
 ## Tarefa de Cypher sobre Marcadores e Taxonomia
 
