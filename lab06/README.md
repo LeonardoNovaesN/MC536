@@ -7,7 +7,8 @@
 |------------|----------------------------------------|
 | referência | `https://sites.google.com/view/sbbd-dsw` |
 | link       | `<url para acesso à página do artigo ou PDF do mesmo>` |
-| dataset | `<link para o repositório público onde está hospedado o dataset>` |
+| dataset | `https://doi.org/10.5281/
+zenodo.5191798` |
 | formato | `<formato em que os arquivos são disponibilizados>` |
 
 ## Resumo
