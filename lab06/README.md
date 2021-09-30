@@ -5,7 +5,7 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `<referência bibliográfica do artigo>` |
+| referência | `<https://sites.google.com/view/sbbd-dsw>` |
 | link       | `<url para acesso à página do artigo ou PDF do mesmo>` |
 | dataset | `<link para o repositório público onde está hospedado o dataset>` |
 | formato | `<formato em que os arquivos são disponibilizados>` |
