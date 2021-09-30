@@ -17,6 +17,10 @@
 ## Perguntas de pesquisa/análises
 
 > Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+> Acreditamos que estes dados poderão auxiliar em futuras pesquisas
+relacionadas à caracterização e detecção automática de desinformação no cenário nacio-
+nal, visando combater, de forma eficiente, a difusão deste tipo de informação nociva à
+sociedade.
 
 ## Trabalhos relacionados
 
