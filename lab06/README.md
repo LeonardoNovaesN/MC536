@@ -20,7 +20,8 @@
 > Acreditamos que estes dados poderão auxiliar em futuras pesquisas
 relacionadas à caracterização e detecção automática de desinformação no cenário nacio-
 nal, visando combater, de forma eficiente, a difusão deste tipo de informação nociva à
-sociedade.
+sociedade. consiste em recurso valioso para diversos estudos nos contextos de identificac¸ao e combate ˜ a desinformac¸ ` ao˜
+no cenario brasileiro. 
 
 ## Trabalhos relacionados
 
