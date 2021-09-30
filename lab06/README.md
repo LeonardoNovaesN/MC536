@@ -1,7 +1,7 @@
 # Aluno
 * `220142`: `Leonardo Novaes do Nascimento`
 
-# Análise do Artigo `<título do artigo>`
+# Análise do Artigo `Central de Fatos: Um Repositorio de Checagens de Fatos`
 
 | campo | valor |
 |------------|----------------------------------------|
