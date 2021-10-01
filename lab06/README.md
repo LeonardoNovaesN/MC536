@@ -17,14 +17,9 @@
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
-> Acreditamos que estes dados poderão auxiliar em futuras pesquisas
-relacionadas à caracterização e detecção automática de desinformação no cenário nacio-
-nal, visando combater, de forma eficiente, a difusão deste tipo de informação nociva à
-sociedade. consiste em recurso valioso para diversos estudos nos contextos de identificac¸ao e combate ˜ a desinformac¸ ` ao˜
-no cenario brasileiro. Em particular, destacamos o vertiginoso crescimento no numero de checagens ´
-em 2020, provavelmente devido a disseminac¸ ` ao de conte ˜ udos de desinformac¸ ´ ao em larga ˜
-escala associada a pandemia da COVID-19
+> Acredita-se que estes dados poderão auxiliar em futuras pesquisas relacionadas à caracterização e detecção automática de desinformação no cenário nacional, visando combater, de forma eficiente, a difusão deste tipo de informação nociva à sociedade.Essas instancias podem então ser utilizadas no treinamento de algoritmos de aprendizado de máquina na tentativa de identificar características e distribuições associadas a este tipo de conteúdo.
+> Os dados disponibilizados através do nosso repositório podem ser utilizados para a elaboração de diversas analises que visam caracterizar o cenário de verificação de fatos no Brasil.
+> Buscar novas percepções sobre conteúdos de desinformação tal como identificar os padrões explorados pelas agências que viabilizam a etiquetagem ou ainda como as temáticas destes conteúdos se relacionam com acontecimentos concorrentes e de suma importância para a elaboração de novas soluções.
 
 ## Trabalhos relacionados
 
