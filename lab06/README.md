@@ -12,7 +12,7 @@
 
 ## Resumo
 
-> Com o crescimento do numero de pessoas que pussuem acesso a internet, aumentou-se consideravelmente a distribuição de informação, contudo, houve tambem o crescimetente da propagação da desiformação. Esse cenário atual é enfrentado por dirversos paises incluindo o Brasil. Para poder auxiliar o combate a desisformação foi criado um banco de dados que possui 11 647 checagens de fatos de 6 agéncias brasileiras de checagem de fatos com reconhecimento e abrangencia nacional 
+> Com o crescimento do numero de pessoas que pussuem acesso a internet, aumentou-se consideravelmente a distribuição de informação, contudo, houve tambem o crescimetente da propagação da desiformação. Esse cenário atual é enfrentado por dirversos paises incluindo o Brasil. Com o objetivo de auxiliar o combate a desisformação foi criado um banco de dados que possui 11 647 checagens de fatos de 6 agéncias brasileiras com reconhecimento e abrangencia nacional (Comprova, Estadao Verifica, Aos Fatos, Boatos, Fato-ou-Fake, Lupa).
 
 ## Perguntas de pesquisa/análises
 
