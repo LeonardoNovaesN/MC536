@@ -5,7 +5,7 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `https://sites.google.com/view/sbbd-dsw` |
+| referência | `Título: Central de Fatos: Um Repositório de Checagens de Fatos. Autores: João M. M. Couto, Breno Pimenta, Igor M. de Araújo, Samuel Assis, Julio C. S. Reis, Ana Paula C. da Silva, Jussara M. Almeida, Fabrício Benevenuto; Ano de publicação: 2021` |
 | link       | `https://drive.google.com/file/d/10VbG50QMvYV6jyCxgU2mwP21vYUG6CcA/view?usp=sharing` |
 | dataset | `https://doi.org/10.5281/zenodo.5191798` |
 | formato | `CSV (comma-separated-values)` |
