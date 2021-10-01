@@ -23,4 +23,4 @@
 
 ## Trabalhos relacionados
 
-O trabalho é inédito, contendo checagens de diversas fontes confiáveis que abrangem um largo espectro de tópicos. Porém todas essas fontes possuem sues proprios bancos de dados
+> O trabalho é inédito, contendo checagens de diversas fontes confiáveis que abrangem um largo espectro de tópicos. Porém todas essas fontes possuem sues proprios bancos de dados
