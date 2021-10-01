@@ -12,7 +12,7 @@
 
 ## Resumo
 
-> Com o crescimento do numero de pessoas que pussuem internet pelas pessoas, aumentos consideravelmente o acesso e distribuição de informação, contudo, houve tambem o crescimetente da propagação da desiformação. Esse cenário representa
+> Com o crescimento do numero de pessoas que pussuem acesso a internet, aumentou-se consideravelmente a distribuição de informação, contudo, houve tambem o crescimetente da propagação da desiformação. Esse cenário atual é enfrentado por dirversos paises incluindo o Brasil. Para poder auxiliar o combate a desisformação foi criado um banco de dadeos de 
 
 ## Perguntas de pesquisa/análises
 
