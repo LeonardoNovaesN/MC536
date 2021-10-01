@@ -12,7 +12,7 @@
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
+> Com o crescimento do numero de pessoas que pussuem internet pelas pessoas, aumentos consideravelmente o acesso e distribuição de informação, contudo, houve tambem o crescimetente da propagação da desiformação. Esse cenário representa
 
 ## Perguntas de pesquisa/análises
 
