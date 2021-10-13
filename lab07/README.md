@@ -6,6 +6,6 @@
 
 ## Perguntas de Pesquisa/análise
 
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+> * Quem tem mais aplicativos pagos, android ou Ios?
+> * Onde o consumidor faz mais download de conteudo pago?
+> * Existe aplicações que são pagos em uma plataforma e não em outra?
