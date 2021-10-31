@@ -2,7 +2,7 @@
 # Aluno
 * `220142`: `Leonardo Novaes do Nascimento`
 
-## Modelo Lógico do Banco de Dados de Grafos
+## Grafo de conhecimento
 > ![Diagrama de Orquestração](images/grafo_de_conhecimento.png)
 
 ## Perguntas de Pesquisa/análise
