@@ -7,6 +7,6 @@
 
 ## Perguntas de Pesquisa/análise
 
-> * Quem tem mais aplicativos pagos, android ou Ios?
-> * Onde o consumidor faz mais download de conteudo pago?
-> * Existe aplicações que são pagos em uma plataforma e não em outra?
+> * Quais aplicativos são mais rentaveis para uma empresa colocar sua propaganda? E em qual plataforma?
+> * Existe diferença de preço de um mesmo aplicativo nas duas plataformas? Isso influencia nos downloads e avaliações?
+> * Quais são os aplicativos que mais tiveram crescimento na pandemia no Android?
